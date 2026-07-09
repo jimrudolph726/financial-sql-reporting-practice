@@ -28,7 +28,8 @@ Rather than treating SQL as an isolated technical skill, this repository focuses
 
 ## Database
 
-The queries in this repository are written using a sample relational database containing tables such as:
+The queries in this repository are written using the Chinook SQLite database located here: https://github.com/lerocha/chinook-database/tree/master.
+The database contains tables such as:
 
 * `Customer`
 * `Invoice`
