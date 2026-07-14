@@ -1,6 +1,6 @@
 # Financial SQL Reporting Practice
 
-This repository contains SQL queries written to practice business and financial reporting workflows. The examples focus on using SQL to summarize revenue, validate data, analyze customers, inspect invoice-level activity, and build repeatable reporting-style queries.
+This repository contains SQL queries written to practice business and financial reporting workflows on the Chinook SQL database. The examples focus on using SQL to summarize revenue, validate data, analyze customers, inspect invoice-level activity, and build repeatable reporting-style queries.
 
 The goal of this project is to demonstrate how SQL can be used not only to retrieve data, but also to support reliable reporting, data quality review, and business decision-making.
 
