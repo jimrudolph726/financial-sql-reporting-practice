@@ -49,10 +49,10 @@ financial-sql-reporting-practice/
     01_monthly_revenue.sql
     02_customer_revenue_analysis.sql
     03_invoice_line_analysis.sql
-    04_data_quality_checks.sql
-    05_window_functions.sql
-    06_variance_analysis.sql
-    07_interview_challenges.sql
+    04_data_quality_checks.sql (upcoming)
+    05_window_functions.sql (upcoming)
+    06_variance_analysis.sql (upcoming)
+    07_interview_challenges.sql (upcoming)
 ```
 
 ## Query Topics
@@ -96,7 +96,7 @@ Skills demonstrated:
 * product-level summaries
 * revenue calculations
 
-### 04_data_quality_checks.sql
+### 04_data_quality_checks.sql (Upcoming)
 
 Queries for identifying potential data issues before reporting.
 Examples include missing values, duplicate records, orphaned records, and unexpected financial values.
@@ -109,7 +109,7 @@ Skills demonstrated:
 * duplicate detection
 * validation logic
 
-### 05_window_functions.sql
+### 05_window_functions.sql (Upcoming)
 
 Window function examples for reporting and analysis.
 Examples include running totals, prior invoice comparisons, ranking, and customer-level sequence analysis.
@@ -123,7 +123,7 @@ Skills demonstrated:
 * `SUM() OVER`
 * `PARTITION BY`
 
-### 06_variance_analysis.sql
+### 06_variance_analysis.sql (Upcoming)
 
 Queries focused on variance-style reporting.
 Examples include comparing actual values to prior periods, calculating dollar changes, and calculating percentage changes.
@@ -135,7 +135,7 @@ Skills demonstrated:
 * percent change calculations
 * `NULLIF` for divide-by-zero protection
 
-### 07_interview_challenges.sql
+### 07_interview_challenges.sql (Upcoming)
 
 Practice queries designed around common SQL interview topics for data analyst roles.
 
